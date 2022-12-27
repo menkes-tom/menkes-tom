@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @menkes-tom
-- 👀 I’m interested in Data Science and Data analysis
-- 🌱 I’m currently a 3rd year Industrial Engineering & Management student
+- 👀 I’m interested in Big Data programming
+- 🌱 I’m currently a 4th year Industrial Engineering & Management student with a Big Data focus
 - 📫 How to reach me: www.linkedin.com/in/tom-menkes
 
 <!---
